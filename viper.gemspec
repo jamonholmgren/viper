@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Viper::VERSION
   spec.authors       = ["Jamon Holmgren"]
   spec.email         = ["jamon@clearsightstudio.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Auto snake case for Objective-C methods in RubyMotion}
+  spec.summary       = %q{Auto snake case for Objective-C methods in RubyMotion}
   spec.homepage      = ""
   spec.license       = "MIT"
 
