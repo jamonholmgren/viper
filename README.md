@@ -1,6 +1,6 @@
 # Viper
 
-Automatic snake case for Objective-C methods in RubyMotion.
+Auto snake case for Objective-C methods in RubyMotion. It's called "Viper" because it's dangerous. ;-)
 
 ```ruby
 v = UIView.new # => #<UIView:0xaa45260>
